@@ -1,0 +1,31 @@
+{
+  "name": "retablejs",
+  "version": "1.0.0",
+  "description": "A Node.js module for interacting with the Retable API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retable-io/retablejs.git"
+  },
+  "keywords": [
+    "retable",
+    "api",
+    "node",
+    "javascript"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/retable-io/retablejs/issues"
+  },
+  "homepage": "https://github.com/retable-io/retablejs#README.md",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
